@@ -12,6 +12,27 @@ I'm Nico, a tech enthusiast and programming lover with a deep passion for contin
 <li>English <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6212cb211e50c9983a643956b445803699f7064e5fd58089b87bc4bf47620607/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f67622e706e67"><img src="https://camo.githubusercontent.com/6212cb211e50c9983a643956b445803699f7064e5fd58089b87bc4bf47620607/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f67622e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/gb.png" style="max-width: 100%;"></a></li>
 <li>Portuguese <a target="_blank" rel="noopener noreferrer nofollow" href="TU_NUEVO_ENLACE"><img src="TU_NUEVO_ENLACE" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/w580/br.webp" style="max-width: 100%;"></a></li>
 
+
+
+
+
+
+
+<ul dir="auto">
+<li>Spanish <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/88a899833817902013505207a928beb94da8ba30f77d527133bb32bd1531e249/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f65732e706e67"><img src="https://camo.githubusercontent.com/88a899833817902013505207a928beb94da8ba30f77d527133bb32bd1531e249/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f65732e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/es.png" style="max-width: 100%;"></a></li>
+<li>English <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5344af1c45905c19ba770040e8b409c028e016c6ce71020c6baccdb5d24d629/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f67622e706e67"><img src="https://camo.githubusercontent.com/b5344af1c45905c19ba770040e8b409c028e016c6ce71020c6baccdb5d24d629/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f67622e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/gb.png" style="max-width: 100%;"></a></li>
+<li>Portuguese <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd52055410304eadd546c05d015d58690d585ea017133207426342a0cb0e26c3/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f62722e706e67"><img src="https://camo.githubusercontent.com/dd52055410304eadd546c05d015d58690d585ea017133207426342a0cb0e26c3/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f62722e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/br.png" style="max-width: 100%;"></a></li>
+<li>French <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a962936b40b989d0e8811323e8bbdba90f1a036c5b04b59ae5c6cb46e2f902ef/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f66722e706e67"><img src="https://camo.githubusercontent.com/a962936b40b989d0e8811323e8bbdba90f1a036c5b04b59ae5c6cb46e2f902ef/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f66722e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/fr.png" style="max-width: 100%;"></a></li>
+<li>Italian <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5662acadac161743ba25d22bbf071bbd7418a4a9e1ce3e96c2cc748569eeeb8a/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f69742e706e67"><img src="https://camo.githubusercontent.com/5662acadac161743ba25d22bbf071bbd7418a4a9e1ce3e96c2cc748569eeeb8a/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f69742e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/it.png" style="max-width: 100%;"></a></li>
+</ul>
+
+
+
+
+
+
+
+
 </ul>
 <hr>
 <h2 dir="auto"><a id="user-content--known-languages-" class="anchor" aria-hidden="true" tabindex="-1" href="#-known-languages-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>How can you find me... </h2>
