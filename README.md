@@ -11,11 +11,17 @@ I'm Nico, a tech enthusiast and programming lover with a deep passion for contin
 <li>English <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b5344af1c45905c19ba770040e8b409c028e016c6ce71020c6baccdb5d24d629/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f67622e706e67"><img src="https://camo.githubusercontent.com/b5344af1c45905c19ba770040e8b409c028e016c6ce71020c6baccdb5d24d629/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f67622e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/gb.png" style="max-width: 100%;"></a></li>
 <li>Portuguese <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd52055410304eadd546c05d015d58690d585ea017133207426342a0cb0e26c3/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f62722e706e67"><img src="https://camo.githubusercontent.com/dd52055410304eadd546c05d015d58690d585ea017133207426342a0cb0e26c3/68747470733a2f2f7777772e62616e64657261732d6d756e646f2e65732f646174612f666c6167732f656d6f6a692f6170706c652f313630783136302f62722e706e67" width="30px" align="center" data-canonical-src="https://www.banderas-mundo.es/data/flags/emoji/apple/160x160/br.png" style="max-width: 100%;"></a></li>
 
-
-
 </ul>
 <hr>
 <h2 dir="auto"><a id="user-content--known-languages-" class="anchor" aria-hidden="true" tabindex="-1" href="#-known-languages-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>How can you find me... </h2>
+
+
+<a href="https://www.linkedin.com/in/nicolas-dasanbiagio" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+
+
+
 <a href="https://www.linkedin.com/in/nicolas-dasanbiagio/" rel="nofollow">
   <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
