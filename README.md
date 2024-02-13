@@ -33,7 +33,7 @@ I'm Nico, a tech enthusiast and programming lover with a deep passion for contin
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"><img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="max-width: 100%;"></a>
  
-  <script src="https://cdn.jsdelivr.net/npm/laravel-echo@1.15.3/dist/echo.min.js"></script>
+
   
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"><img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/npm/laravel-echo@1.15.3/dist/echo.min.js" style="max-width: 100%;"></a>
  
